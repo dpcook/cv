@@ -63,7 +63,7 @@ tribble(
 - Vuong, NH.&ast;, **Cook, DP.**&ast;, Forrest, LA., Carter, LE., Robineau-Charette, P., Kofsky, JM., Hodgkinson, KM., Vanderhyden, BC. Single-cell RNA sequencing reveals transcriptional dynamics of estrogen-induced dysplasia in the ovarian surface epithelium. (2018) *PLOS Genetics*, 14(11):e1007788. **&ast; Authors contributed equally**
 - Carter, LE.&ast;, **Cook, DP.**&ast;, Vanderhyden, BC. (2018). Phenotypic Plasticity and the Origins and Progression of Ovarian Cancer. The Ovary (3rd Edition; Elsevier). **&ast; Authors contributed equally**
 - Al-Zahrani, K., **Cook, DP.**, Vanderhyden, BC., Sabourin, LA. (2018) Assessing the efficacy of androgen receptor and Sox10 as independent markers of the triple-negative breast cancer subtype by transcriptome profiling. *Oncotarget*, 9(70), 33348-33359
-- Vlasschaert, C., **Cook, DP.**, Xia, X., Gray, D. (2017). The evolution of the deubiquitinating enzyme superfamily. *Genome Biol and Evol*, 9(3), 558-573 
+- Vlasschaert, C., **Cook, DP.**, Xia, X., Gray, D. (2017). The evolution and functional diversification of the deubiquitinating enzyme superfamily. *Genome Biol and Evol*, 9(3), 558-573 
 
 # Presentations
 ```{r}
@@ -77,7 +77,7 @@ tribble(
   "February 2, 2018", "10x Genomics User Group Meeting (Ottawa, ON)", "'Revealing transcriptional dynamics of the epithelial-mesenchymal transition using single-cell RNA sequencing'",
   "November 24, 2017", "uOttawa Cellular and Molecular Medicine Research Day (Ottawa, ON)", "'Molecular determinants of the epithelial-mesenchymal transition in ovarian cancer' (Awarded best oral presentation)",
   "May 9, 2017", "Stem Cell Network RNA-seq Workshop", "'Gene expression one cell at a time'",
-  "February 6, 2017", "Fluidigm Seminar (Ottawa, ON)", "'Using the Fluidigm C1 system for high-throughput RNA-seq to investigate the effects of prolonged estrogen exposure on the mouse ovarian surface epithelium"
+  "February 6, 2017", "Fluidigm Seminar (Ottawa, ON)", "'Using the Fluidigm C1 system for high-throughput RNA-seq to investigate the effects of prolonged estrogen exposure on the mouse ovarian surface epithelium'"
 ) %>% 
   detailed_entries(with = Where, when = When, what = Title)
 ```
