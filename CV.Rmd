@@ -31,7 +31,7 @@ tribble(
   detailed_entries(Degree, Year, Institution, Where, Details)
 ```
 
-# Ahievements and Awards
+# Achievements and Awards
 
 ```{r}
 tribble(
