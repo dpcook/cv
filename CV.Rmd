@@ -4,7 +4,7 @@ surname: Cook
 position: "PhD Candidate (Vanderhyden Lab)"
 address: "Ottawa Hospital Research Institute, Ottawa, ON"
 #profilepic: "/Users/dpcook/Pictures/PicsOfMe/DavidCook-Headshot.jpg"
-phone: 1-613-255-0863
+#phone: 1-613-255-0863
 email: "david.cook@uottawa.ca"
 twitter: DavidPCook
 www: dpcook.com
@@ -36,6 +36,7 @@ tribble(
 ```{r}
 tribble(
   ~Year, ~Award,
+  "2020", "Judith R. Raymond Scholarship in Cancer Research",
   "2019", "Best graduate student poster presentation, University of Ottawa Faculty of Medicine Research Day",
   "2019", "Dr. Ronald G. Worton Researcher in Training Award (Nominated), Ottawa Hospital Research Institute",
   "2019", "Faculty of Medicine Award of Excellence (PhD; Nominated), University of Ottawa",
@@ -52,24 +53,41 @@ tribble(
 
 # Publications
 
-- **Cook, DP.**, Vanderhyden, BC. (2019). Context specificity of the EMT transcriptional response. Preprint in bioRxiv (doi:10.1101/732412). *Nature Communications*, In Review
-- Hurskainen, KM., Mižíková I., **Cook, DP.**, Cyr-Depauw, C., Lesage, F., Helle, E., Renesme, L., Lithopoulous, MA., Jankov, RP., Vanderhyden, BC., Thébaud, B. (2019). Single-cell transcriptomic analysis of normal and impaired lung development in the mouse. Preprint in bioRxiv (doi:10.1101/868802). *Nature Communications*, In Review
-- Carter, LE., **Cook, DP.**, McCloskey, CW., Dang, T., Collins, O., Gamwell, LF. (2019). Transcriptional profile of stemness in the mouse ovarian epithelium. *Biology of Reproduction*, Submitted
-- Karunakaran, D., Turner, AW., Duchez, A., Soubeyrand, S., Rasheed, A., Smyth, D., **Cook, DP.**, Kandiah, JW., Pan, C., Geoffrion, M., Nikpay, M., Lee, R., Boytard, JW., Pan, C., Nguyen, M., Lau, P., Laakso, M., Ramkhelawon, B., Vanderhyden, BC., Liu, P., Berger, SB., Gough, PJ., Beal, AM., Bertin, J., Harper, M., Lusis, AJ., McPherson, R., Rayner, KJ. (2019). RIPK1 directs immunometabolism in humans and can be therapeutically silenced to improve metabolic dysfunction in diet-induced obesity. *Nature Medicine*, In Review
-- Al-Zahrani, K., Abou-Hamad, J., Pryce, BR., **Cook, DP.**, Hodgins, JJ., Labrèche, C., Robineau-Charette, P., de Souza, CT., Bell, JC., Auer, RC., Ardolino, M., Vanderhyden, BC., Sabourin, LA. (2019). Loss of the Ste20-like kinase enhances tumorigenesis through AKT/Sox9-dependent Sox10 induction in HER2-positive breast cancers”. *Oncogene*, In Review
+- Al-Zahrani, K., Abou-Hamad, J., Pryce, BR., **Cook, DP.**, Hodgins, JJ., Labrèche, C., Robineau-Charette, P., de Souza, CT., Bell, JC., Auer, RC., Ardolino, M., Vanderhyden, BC., Sabourin, LA. (2020). Loss of the Ste20-like kinase enhances tumorigenesis through AKT/Sox9-dependent Sox10 induction in HER2-positive breast cancers”. *Oncogene*, In Press
+
+- **Cook, DP.**, Vanderhyden, BC. (2020). Context specificity of the EMT transcriptional response. Preprint in *bioRxiv* (doi:10.1101/732412). *Nature Communications*, In Press
+
+- **Cook, DP.**, Vanderhyden, BC. (2020). Cre-mediated deletion of SMARCA5 disrupts pluripotency in mouse embryonic stem cells. Preprint in *bioRxiv* (doi:10.1101/2020.04.02.022285.)
+
+- Hurskainen, KM., Mižíková I., **Cook, DP.**, Cyr-Depauw, C., Lesage, F., Helle, E., Renesme, L., Lithopoulous, MA., Jankov, RP., Vanderhyden, BC., Thébaud, B. (2019). Single-cell transcriptomic analysis of normal and impaired lung development in the mouse. Preprint in *bioRxiv* (doi:10.1101/868802). *Nature Communications*, In Review
+
+- Carter, LE.&ast;, **Cook, DP.**&ast;, McCloskey, CW., Dang, T., Collins, O., Gamwell, LF. (2020). Transcriptional profile of stemness in the mouse ovarian epithelium. *Biology of Reproduction*, In Review. 
+**&ast; Authors contributed equally**
+
+- Karunakaran, D., Turner, AW., Duchez, A., Soubeyrand, S., Rasheed, A., Smyth, D., **Cook, DP.**, Kandiah, JW., Pan, C., Geoffrion, M., Nikpay, M., Lee, R., Boytard, JW., Pan, C., Nguyen, M., Lau, P., Laakso, M., Ramkhelawon, B., Vanderhyden, BC., Liu, P., Berger, SB., Gough, PJ., Beal, AM., Bertin, J., Harper, M., Lusis, AJ., McPherson, R., Rayner, KJ. (2020). RIPK1 directs immunometabolism in humans and can be therapeutically silenced to improve metabolic dysfunction in diet-induced obesity. *Nature Metabolism*, In Review
+
 - McCloskey, CW., **Cook, DP.**, Kelly, BS., Azzi, F., Allen, CH., Forsyth, A., Upham, J., Rayner, KJ., Gray, DA., Boyd, RW., Murugkar, S., Lo, B., Trudel, D., Senterman, MK., Vanderhyden, BC. (2019). Metformin abrogates age-associated ovarian fibrosis in women. *Clinical Cancer Research*. doi:10.1158/1078-0432.CCR-19-0603
+
 - Carter, LE., **Cook, DP.**, Collins O., Gamwell, LF., Dempster, HA., Wong, HW., McCloskey, CW., Garson, K., Vuong, NH., Vanderhyden, BC. (2019). COX2 is induced in the ovarian epithelium during ovulatory wound repair and promotes cell survival. *Biology of Reproduction*, doi:10.1093/biolre/ioz134
+
 - **Cook, DP.**, Vanderhyden, BC. (2019). Ovarian cancer and the evolution of subtype classifications using transcriptional profiling. *Biology of Reproduction*, 101(3):645-658
-- Vuong, NH.&ast;, **Cook, DP.**&ast;, Forrest, LA., Carter, LE., Robineau-Charette, P., Kofsky, JM., Hodgkinson, KM., Vanderhyden, BC. Single-cell RNA sequencing reveals transcriptional dynamics of estrogen-induced dysplasia in the ovarian surface epithelium. (2018) *PLOS Genetics*, 14(11):e1007788. **&ast; Authors contributed equally**
-- Carter, LE.&ast;, **Cook, DP.**&ast;, Vanderhyden, BC. (2018). Phenotypic Plasticity and the Origins and Progression of Ovarian Cancer. The Ovary (3rd Edition; Elsevier). **&ast; Authors contributed equally**
+
+- Vuong, NH.&ast;, **Cook, DP.**&ast;, Forrest, LA., Carter, LE., Robineau-Charette, P., Kofsky, JM., Hodgkinson, KM., Vanderhyden, BC. Single-cell RNA sequencing reveals transcriptional dynamics of estrogen-induced dysplasia in the ovarian surface epithelium. (2018) *PLOS Genetics*, 14(11):e1007788. 
+**&ast; Authors contributed equally**
+
 - Al-Zahrani, K., **Cook, DP.**, Vanderhyden, BC., Sabourin, LA. (2018) Assessing the efficacy of androgen receptor and Sox10 as independent markers of the triple-negative breast cancer subtype by transcriptome profiling. *Oncotarget*, 9(70), 33348-33359
+
 - Vlasschaert, C., **Cook, DP.**, Xia, X., Gray, D. (2017). The evolution and functional diversification of the deubiquitinating enzyme superfamily. *Genome Biol and Evol*, 9(3), 558-573 
+
+# Book Chapters
+
+- Carter, LE.&ast;, **Cook, DP.**&ast;, Vanderhyden, BC. (2018). Phenotypic Plasticity and the Origins and Progression of Ovarian Cancer. The Ovary (3rd Edition; Elsevier). **&ast; Authors contributed equally**
 
 # Presentations
 ```{r}
 tribble(
   ~When, ~Where, ~Title,
-  "November 28, 2019", "uOttawa Research Night Out (Ottawa, ON)", "'Beyond genetics: cellular adaptation and cooperation'",
+  "November 28, 2019", "uOttawa BMI Research Night Out (Ottawa, ON)", "'Beyond genetics: cellular adaptation and cooperation'",
   "November 7, 2019", "Ottawa Hospital Research Institute Research Day (Ottawa, ON)", "'Revealing context-specificity of the epithelial-mesenchymal transition'",
   "April 25, 2019", "10x Genomics User Group Meeting (Ottawa, ON)", "'Comparing regulatory features of the epithelial-mesenchymal transition using highly multiplexed scRNA-seq'",
   "April 19, 2018", "Centre for Research in Reproduction and Development (McGill University, Montreal, QC)", "'Resolving transcriptional dynamics of the epithelial-mesenchymal transition using single-cell RNA sequencing'",
@@ -82,13 +100,23 @@ tribble(
   detailed_entries(with = Where, when = When, what = Title)
 ```
 
+# Selected Poster Presentations
+
+- **Cook, DP.**, McGinnis, CS., Patterson, DM., Gartner, ZJ., Vanderhyden, BC. (2019). Comparing transcriptional dynamics of the epithelial-mesenchymal transition using highly multiplexed scRNA-seq.  *Keystone Symposia: Cellular Plasticity - Reprogramming, Regeneration, and Metaplasia* (Keystone, CO)
+
+- **Cook, DP.**, McGinnis, CS., Patterson, DM., Gartner, ZJ., Vanderhyden, BC. (2019). Comparing transcriptional dynamics of the epithelial-mesenchymal transition using highly multiplexed scRNA-seq.  *Nature Conference: The Tumour Cell - Plasticity, Progression, and Therapy* (New York, NY)
+
+- **Cook, DP.**, YC, Wang., Ragoussis, J., Vanderhyden, BC. (2018). Transcriptional and epigenetic determinants of the epithelial-mesenchymal transition in ovarian cancer.  *Single Cell Biology 2018* (Hinxton, UK)
+
+- **Cook, DP.**, Paradis, F., Picketts, DJ., Vanderhyden, BC. (2019). Snf2h-mediated chromatin remodelling is essential for the maintenance of embryonic stem cell identity.  *Keystone Symposia: Transcriptional and Epigenetic Influence on Stem Cell States* (Steamboat Springs, CO)
+
 # Teaching Experience
 ```{r}
 library(tibble)
 tribble(
   ~ Job, ~ Employer, ~ Year, ~ Details,
-  "RNA-seq workshop lecturer", "Stem Cell Network", "October 15-16, 2019 & May 7-8, 2018", "Designed and led a day-long workshop on single-cell RNA sequencing",
-  "RNA-seq workshop lecturer", "Stem Cell Network", "October 15-16, 2019 & May 7-8, 2018", "Topics include experimental design and end-to-end data analysis",
+  "Workshop lecturer", "University of Ottawa / Ottawa Hospital Research Institute", "April 27, 2020", "Led a day-long workshop on scRNA-seq anlaysis via Zoom due to COVID-19",
+  "Workshop lecturer", "Stem Cell Network", "October 15-16, 2019 & May 7-8, 2018", "Designed and led a day-long workshop on scRNA-seq analysis",
   "Teaching Assistant", "with Dr. Jacqueline Carnegie", "2013-present", "Designed and implemented tutorial sessions for students enrolled in the first-year Anatomy and Physiology (ANP) 1105, 1106, and 1107 courses",
   "Lab demonstrator", "BIO2133 - Genetics", "January-June, 2016", "Facilitated a section of the lab component for the second-year Genetics course at the University of Ottawa",
   "Lab demonstrator", "BIO2133 - Genetics", "January-June, 2016", "Set up labs, provided brief lectures to introduce relevant material, and assisted students throughout the lab"
@@ -101,9 +129,14 @@ tribble(
 library(tibble)
 tribble(
   ~ Job, ~ Employer, ~ Year, ~ Details,
-  "Organizing Committee Member", "Human Anatomy and Physiology Society Annual Conference (Ottawa, 2020)", "2019-2020", "Involved in program planning and volunteer recruitment",
+  "Organizing Committee Member", "Human Anatomy and Physiology Society Annual Conference (Ottawa, 2020)", "2019-2020", "Involved in program planning and volunteer recruitment. Note: Event cancelled due to COVID-19",
   "Cancer Outreach Coordinator", "Let's Talk Science (Ottawa)", "2016-present", "Involved with the organization of the annual Let’s Talk Cancer Symposium in partnership with the Canadian Cancer Society, along with the development of cancer-related workshops to be disseminated to local high school classrooms",
   "Cancer Outreach Coordinator", "Let's Talk Science (Ottawa)", "2016-present", "Have worked closely with the non-profit organization Encounters with Canada to develop workshops, organize career panels, and coordinate site visits to health- and technology-related institutions in Ottawa for high school students from across Canada. Have organized events for over 3000 Canadian students from across the country."
 ) %>% 
   detailed_entries(what = Employer, when = Year, with = Job, why = Details)
 ```
+
+# References
+- **Dr. Barbara Vanderhyden** - PhD Supervisor - bvanderhyden@ohri.ca
+- **Dr. Douglas Gray** - Thesis Advisory Committee Member - dgray@ohri.ca
+- **Dr. Katey Rayner** - Collaborator - krayner@ottawaheart.ca
