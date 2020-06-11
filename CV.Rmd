@@ -4,7 +4,6 @@ surname: Cook
 position: "PhD Candidate (Vanderhyden Lab)"
 address: "Ottawa Hospital Research Institute, Ottawa, ON"
 #profilepic: "/Users/dpcook/Pictures/PicsOfMe/DavidCook-Headshot.jpg"
-#phone: 1-613-255-0863
 email: "david.cook@uottawa.ca"
 twitter: DavidPCook
 www: dpcook.com
@@ -53,7 +52,7 @@ tribble(
 
 # Publications
 
-- Carter, LE.&ast;, **Cook, DP.**&ast;, McCloskey, CW., Dang, T., Collins, O., Gamwell, LF. Vanderhyden, BC. (2020). Transcriptional profile of stemness in the mouse ovarian epithelium. *Communications Biology*, In Review. 
+- Carter, LE.&ast;, **Cook, DP.**&ast;, McCloskey, CW., Dang, T., Collins, O., Gamwell, LF. Vanderhyden, BC. (2020). Transcriptional heterogeneity of stemness phenotypes in the ovarian epithelium. *Communications Biology*, In Review. 
 \newline
 **&ast;Authors contributed equally**
 
@@ -62,10 +61,6 @@ tribble(
 - Hurskainen, KM., Mižíková I., **Cook, DP.**, Cyr-Depauw, C., Lesage, F., Helle, E., Renesme, L., Lithopoulous, MA., Jankov, RP., Vanderhyden, BC., Thébaud, B. (2020). Single-cell transcriptomic analysis of normal and impaired lung development in the mouse. Preprint in *bioRxiv* (doi:10.1101/868802). *Nature Communications*, In Review.
 
 - Karunakaran, D., Turner, AW., Duchez, A., Soubeyrand, S., Rasheed, A., Smyth, D., **Cook, DP.**, Kandiah, JW., Pan, C., Geoffrion, M., Nikpay, M., Lee, R., Boytard, JW., Pan, C., Nguyen, M., Lau, P., Laakso, M., Ramkhelawon, B., Vanderhyden, BC., Liu, P., Berger, SB., Gough, PJ., Beal, AM., Bertin, J., Harper, M., Lusis, AJ., McPherson, R., Rayner, KJ. (2020). RIPK1 directs immunometabolism in humans and can be therapeutically silenced to improve metabolic dysfunction in diet-induced obesity. *Nature Metabolism*, In Review.
-
-- Galpin, KJC.&ast;, **Cook, DP.**&ast;, Salemi, LM., Urowitz, S., Williams, C., Bell, JC., Brundage, MD., Vanderhyden, BC. (2020). Report on the Canadian Cancer Research Conference 2019. *Current Oncology*, In Press.
-\newline
-**&ast;Authors contributed equally**
 
 - Al-Zahrani, K., Abou-Hamad, J., **Cook, DP.**, Pryce, BR., Hodgins, JJ., Labrèche, C., Robineau-Charette, P., de Souza, CT., Bell, JC., Auer, RC., Ardolino, M., Vanderhyden, BC., Sabourin, LA. (2020). Loss of the Ste20-like kinase enhances tumorigenesis through AKT/Sox9-dependent Sox10 induction in HER2-positive breast cancers”. *Oncogene*, doi:10.1038/s41388-020-1315-3.
 
@@ -93,16 +88,22 @@ tribble(
 
 - Al-Zahrani, K., **Cook, DP.**, Vanderhyden, BC., Sabourin, LA. (2018) Assessing the efficacy of androgen receptor and Sox10 as independent markers of the triple-negative breast cancer subtype by transcriptome profiling. *Oncotarget*, 9(70), 33348-33359.
 
-- Carter, LE.&ast;, **Cook, DP.**&ast;, Vanderhyden, BC. (2018). Phenotypic Plasticity and the Origins and Progression of Ovarian Cancer. The Ovary (3rd Edition; Elsevier). 
+- Vlasschaert, C., **Cook, DP.**, Xia, X., Gray, D. (2017). The evolution and functional diversification of the deubiquitinating enzyme superfamily. *Genome Biol and Evol*, 9(3), 558-573.
+
+# Other Articles
+- Galpin, KJC.&ast;, **Cook, DP.**&ast;, Salemi, LM., Urowitz, S., Williams, C., Bell, JC., Brundage, MD., Vanderhyden, BC. (2020). Report on the Canadian Cancer Research Conference 2019. *Current Oncology*, 27(2):e226-e230.
 \newline
 **&ast;Authors contributed equally**
 
-- Vlasschaert, C., **Cook, DP.**, Xia, X., Gray, D. (2017). The evolution and functional diversification of the deubiquitinating enzyme superfamily. *Genome Biol and Evol*, 9(3), 558-573.
+- Carter, LE.&ast;, **Cook, DP.**&ast;, Vanderhyden, BC. (2018). Phenotypic Plasticity and the Origins and Progression of Ovarian Cancer. The Ovary (3rd Edition; Elsevier). 
+\newline
+**&ast;Authors contributed equally**
 
 # Presentations
 ```{r}
 tribble(
   ~When, ~Where, ~Title,
+  "July 8, 2020", "Single-Cell Academy at Sainte-Justine Research Centre (Montreal, QC via Zoom)", "'Comparative analysis of EMT transcriptional dynamics using highly multiplexed scRNA-seq'",
   "November 28, 2019", "uOttawa BMI Research Night Out (Ottawa, ON)", "'Beyond genetics: cellular adaptation and cooperation'",
   "November 7, 2019", "Ottawa Hospital Research Institute Research Day (Ottawa, ON)", "'Revealing context-specificity of the epithelial-mesenchymal transition'",
   "April 25, 2019", "10x Genomics User Group Meeting (Ottawa, ON)", "'Comparing regulatory features of the epithelial-mesenchymal transition using highly multiplexed scRNA-seq'",
